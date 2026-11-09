@@ -1,0 +1,9 @@
+date,account,service,amount
+2026-11-01,prod,compute,42
+2026-11-02,prod,compute,46
+2026-11-03,prod,compute,44
+2026-11-04,prod,compute,43
+2026-11-05,prod,compute,46
+2026-11-06,prod,compute,150
+2026-11-01,dev,storage,7
+2026-11-02,dev,storage,7.5
